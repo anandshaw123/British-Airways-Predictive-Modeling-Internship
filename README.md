@@ -1,2 +1,2 @@
-# British-Airways-Predictive-Modeling-Internship
+# British-Airways-Predictive-Modeling-Internship-from-Forage
 British Airways Internship from Forage
