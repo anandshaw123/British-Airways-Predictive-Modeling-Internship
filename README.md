@@ -4,6 +4,9 @@ British Airways Internship from Forage
 This repository contains the work completed as part of the British Airways Predictive Modeling Internship from Forage. The project focuses on developing a predictive model to address business questions and improve decision-making processes at British Airways.
 
 
+
+
+
 ## **Project Overview**
 ##### The main objective of this project is to build and evaluate a predictive model using airline data. The tasks involved in this project include:
 
