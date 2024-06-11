@@ -1,23 +1,23 @@
-![image](https://github.com/anandshaw123/British-Airways-Predictive-Modeling-Internship-From-Forage/assets/129979768/64c5a7e3-6bb4-416b-8750-6b5814f799c2)![image](https://github.com/anandshaw123/British-Airways-Predictive-Modeling-Internship-From-Forage/assets/129979768/b1a46e66-fd6f-44c2-81f5-d6e9856d9d8d)![image](https://github.com/anandshaw123/British-Airways-Predictive-Modeling-Internship-From-Forage/assets/129979768/7cd60eb4-b85b-4db9-b4d2-5bf8966bf0d6)# British-Airways-Predictive-Modeling-Internship-from-Forage
+# British-Airways-Predictive-Modeling-Internship-from-Forage
 British Airways Internship from Forage
 
-This repository contains the work completed as part of the British Airways Predictive Modeling Internship from Forage. The project focuses on developing a predictive model to address business questions and improve decision-making processes at British Airways.
+This repository contains the work completed as part of the British Airways Internship from Forage. The project focuses on developing a predictive model to address business questions and improve decision-making processes at British Airways.
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## **Project Overview**
-##### The main objective of this project is to build and evaluate a predictive model using airline data. The tasks involved in this project include:
+##### The main objective of this project is to build and evaluate a predictive model using airline data.Find business question **Customers booking holidays with British Airways.** The tasks involved in this project include:
 
 #### **Exploratory Data Analysis (EDA):**
-- Performed initial data exploration to understand the hidden patterns, structure, distribution, and relationships within the data.
+- Performed initial data exploration to understand the hidden patterns, structure, distribution,Outliers detection and relationships within the data.
 - Visualized data to identify patterns, trends, and anomalies.
 
 
 #### **Data Cleaning and Preparation:**
-- Handled missing values, outliers, and inconsistencies in the dataset.
-- Transformed and normalized data to prepare it for modeling.
+- Handled missing values, missing row, and inconsistencies in the dataset.
+- Transformed and normalized and encode data to prepare it for modeling.
 
 
 #### **Dimensionality Reduction:**
