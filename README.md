@@ -11,7 +11,7 @@ This repository contains the work completed as part of the British Airways Inter
 ##### The main objective of this project is to build and evaluate a predictive model using airline data.Find business question **Customers booking holidays with British Airways.** The tasks involved in this project include:
 
 #### **Exploratory Data Analysis (EDA):**
-- Performed initial data exploration to understand the hidden patterns, structure, distribution,Outliers detection and relationships within the data.
+- Performed data exploration to understand the hidden patterns, structure, distribution,Outliers detection and relationships within the data.
 - Visualized data to identify patterns, trends, and anomalies.
 
 
