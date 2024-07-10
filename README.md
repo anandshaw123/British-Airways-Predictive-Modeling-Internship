@@ -29,13 +29,13 @@ This repository contains the work completed as part of the British Airways Inter
 
 
 #### **Feature Encoding:**
-- Converted categorical variables into numerical formats using techniques like Dummy encoding.
+- Converted categorical variables into numerical formats using techniques like **Dummy encoding.**
 - Ensured that the data was in a suitable format for machine learning algorithms.
 
 
 #### **Feature Scaling:**
 - Standardized the data to ensure that the data should be in same Scale and all features contributed equally to the model.
-- Applied scaling technique like StandardScaler.
+- Applied scaling technique like **StandardScaler.**
 
 
 #### **Model Building and Evaluation:**
