@@ -8,7 +8,7 @@ This repository contains the work completed as part of the British Airways Inter
 
 
 ## **Project Overview**
-##### The main objective of this project is to build and evaluate a predictive model using airline data.Find business question **Customers booking holidays with British Airways.** 
+##### The main objective of this project is to build and evaluate a predictive model using airline data.Find business question **Customers booking holidays for British Airways.** 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # **The Tasks involved in this project include:**
