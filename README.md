@@ -52,6 +52,10 @@ This repository contains the work completed as part of the British Airways Inter
 
 ## **Tools/Technologies:**
 
+**Python**
+
+**Machine Learning**
+
 **Pandas & NumPy**
 
 **matplotlib**
